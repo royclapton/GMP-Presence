@@ -11,3 +11,4 @@ Discord Rich Presence (for Gothic Multiplayer, Tales of Morgrad edition).
 
 
 
+![2024-05-22_00-21-10](https://github.com/royclapton/GMP-Presence/assets/35144290/e21cf61e-c661-40ea-84af-13618ace71cd)
